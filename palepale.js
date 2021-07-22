@@ -1,3 +1,4 @@
-document.getElementById("fddd").onclick = function(){
+document.getElementById("fdd").onclick = function(){
   prompt("hello");
 }
+prompt("test");
